@@ -7,7 +7,7 @@
 ## 📋 Habilidades & Interesses
 
 - **Linguagens:**  
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C++-363636?style=flat-square&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-8B4513?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-4B0082?style=flat-square&logo=python)
+  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C++-FF00FF?style=flat-square&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-8B4513?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-6495ED?style=flat-square&logo=python)
 - **Áreas de interesse:**  
   - Algoritmos e Estruturas de Dados.
   - Desenvolvimento de projetos acadêmicos e pessoais.
