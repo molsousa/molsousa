@@ -11,10 +11,8 @@
 - **Áreas de interesse:**  
   - Algoritmos e Estruturas de Dados.
   - Desenvolvimento de projetos acadêmicos e pessoais.
-- **Interesse em:**  
   - História.
   - Ciências Sociais.
-  - Algoritmos.
 
 ## 📚 Projetos
 
