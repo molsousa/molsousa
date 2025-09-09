@@ -7,10 +7,10 @@
 ## 📋 Habilidades & Interesses
 
 - **Linguagens:**  
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-FF00FF?style=flat-square&logo=c%2B%2B)
-  ![Java](https://img.shields.io/badge/-Java-8B4513?style=flat-square&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-6495ED?style=flat-square&logo=python)
+  ![C](https://img.shields.io/badge/C-121212?logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%23ff00cf.svg?logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
   ![Prolog](https://img.shields.io/badge/-Prolog-8B0000?style=flat-square&logo=prolog&logoColor=white)
 - **Áreas de interesse:**  
   - Algoritmos e Estruturas de Dados.
@@ -24,9 +24,8 @@ Meus repositórios são, em sua maioria, projetos acadêmicos e experimentos pes
 
 ## 🌐 Redes & Links
 
-- [Instagram](https://www.instagram.com/molsousa/)
-- [LinkedIn](https://www.linkedin.com/in/marcos-oliveira-de-sousa-90a97527a/)
-- [Beecrowd](https://judge.beecrowd.com/pt/profile/877831)
-- [Email](mailto:sousas1569@gmail.com)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/molsousa)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marcos-oliveira-de-sousa-90a97527a/)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sousas1569@gmail.com)
 
 ---
