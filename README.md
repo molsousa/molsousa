@@ -22,10 +22,15 @@
 
 Meus repositórios são, em sua maioria, projetos acadêmicos e experimentos pessoais. Fique à vontade para explorar e mandar sugestões!
 
-## 🌐 Redes & Links
+## 🌐 Redes
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/molsousa)
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marcos-oliveira-de-sousa-90a97527a/)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sousas1569@gmail.com)
+
+## Outros links
+
+[✍🏾 Lattes](http://lattes.cnpq.br/8582337897022156)
+[🐝 Beecrowd](https://judge.beecrowd.com/pt/profile/877831)
 
 ---
