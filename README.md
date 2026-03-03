@@ -21,7 +21,11 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
   ![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)
  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molsousa&layout=compact&theme=monokai)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=molsousa&theme=dark" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=molsousa&theme=dark" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=molsousa&theme=dark&utcOffset=-3" width="24%">
+</p>
   
 - **Áreas de interesse:**  
   - Algoritmos e Estruturas de Dados.
