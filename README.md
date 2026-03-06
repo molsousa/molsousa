@@ -22,9 +22,8 @@
   ![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)
  
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=molsousa&theme=dark" width="33%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=molsousa&theme=dark" width="33%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=molsousa&theme=dark&utcOffset=-3" width="33%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=molsousa&theme=vue" width="30%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=molsousa&theme=vue" width="30%">
 </p>
   
 - **Áreas de interesse:**  
