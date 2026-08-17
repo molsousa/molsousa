@@ -1,10 +1,10 @@
-# 👋 Olá, sou o Marcos!
+# Olá, sou o Marcos!
 
-💻 **Estudante de Ciência da Computação.**
+💻 **Estudante de Ciência da Computação na Unioeste (Universidade do Oeste do Paraná).**
 
-🏛️ **Estudante não graduando de história.**
+Meus repositórios são, em sua maioria, projetos acadêmicos e experimentos pessoais. Fique à vontade para explorar e mandar sugestões.
 
-## 📋 Habilidades & Interesses
+## Habilidades & Interesses
 
 - **Linguagens e Ferramentas:**
   
@@ -32,17 +32,8 @@
   - Algoritmos e Estruturas de Dados.
   - Visão Computacional.
   - Teoria da Computação.
-  - Desenvolvimento de projetos acadêmicos e pessoais.
+  - Sistemas Operacionais.
   - História.
-
-## 📚 Projetos
-
-Meus repositórios são, em sua maioria, projetos acadêmicos e experimentos pessoais. Fique à vontade para explorar e mandar sugestões!
-
-## 🌐 Redes
-
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/molsousa)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sousas1569@gmail.com)
 
 ## Outros links
 
