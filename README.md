@@ -1,6 +1,6 @@
 # Olá, sou o Marcos!
 
-💻 **Estudante de Ciência da Computação na Unioeste (Universidade do Oeste do Paraná).**
+💻 **Estudante de Ciência da Computação na Universidade Estadual do Oeste do Paraná (Unioeste) - Campus Foz do Iguaçu.**
 
 Meus repositórios são, em sua maioria, projetos acadêmicos e experimentos pessoais. Fique à vontade para explorar e mandar sugestões.
 
@@ -13,8 +13,8 @@ Meus repositórios são, em sua maioria, projetos acadêmicos e experimentos pes
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
   [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-  ![Prolog](https://img.shields.io/badge/-𓅔_Prolog-8B0000?style=plastic&logo=prolog&logoColor=white)
-  ![ρ_Pascal](https://img.shields.io/badge/-.ρ_Pascal-f5ef51?style=plastic&logo=pascal&logoColor=white)
+  ![Prolog](https://custom-icon-badges.demolab.com/badge/-Prolog-8B0000?logo=swi-prolog&logoColor=white)
+  ![Pascal](https://img.shields.io/badge/Pascal-%230288d1.svg?logo=lazarus&logoColor=white)
   [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
   [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
   
@@ -40,13 +40,14 @@ Meus repositórios são, em sua maioria, projetos acadêmicos e experimentos pes
 - **Áreas de interesse:**  
   - Algoritmos e Estruturas de Dados.
   - Visão Computacional.
+  - Engenharia de Software.
   - Teoria da Computação.
   - Sistemas Operacionais.
   - História.
 
 ## Outros links
 
-[✍🏾 Lattes](http://lattes.cnpq.br/8582337897022156)
-[🐝 Beecrowd](https://judge.beecrowd.com/pt/profile/877831)
+[![Lattes](https://img.shields.io/badge/Lattes-005A9C?logo=book&logoColor=white)](http://lattes.cnpq.br/8582337897022156)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-662483?logo=code&logoColor=white)](https://judge.beecrowd.com/pt/profile/877831)
 
 ---
